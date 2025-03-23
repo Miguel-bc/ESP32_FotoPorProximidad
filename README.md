@@ -20,12 +20,6 @@ La ESP32-CAM toma una foto cuando el sensor ultrasónico detecta un objeto a una
 - **HC-SR04**: Sensor ultrasónico para medir distancia.
 - **Arduino IDE**: Para programar la ESP32-CAM.
 
-### 📷 Capturas de Pantalla
-
-A continuación, se muestra una imagen de referencia del proyecto en acción:
-
-![ESP32-CAM con Sensor Ultrasónico](https://upload.wikimedia.org/wikipedia/commons/6/6a/Esp32_cam.jpg)
-
 ### 📌 ¿Cómo Usar?
 
 1. **Sube el código** a la ESP32-CAM utilizando Arduino IDE.
